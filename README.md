@@ -1,17 +1,17 @@
 # spark_py
-## a.py
+## a
 Implement the PageRank algorithm with Spark and provide suitable input to test it.
-## b.py
+## b
 Given a file with store sales records in the format:
 StoreID ItemID1 #sold1 ItemID2 #sold2 …and a file of item prices in the format:
 ItemID1 price1 ItemID2 price2 …
 Write a Spark program to compute the total sales of each
 store, the total number sold of each item, the average total sales and the grand total sales of all stores.
-## c.py
+## c
 Write a Spark program to compute the inverted index and
 frequency counts of keywords on a set of documents. More
 specifically, given a set of (DocumentID, text) pairs, output a list of (word, ((doc1, #1), (doc2, #2) …)) pairs.
-## d.py
+## d
 Given a text file of purchase records and a threshold θ, write a Spark program to find all sets of frequent items that are purchased together. Each line of the input is a
 transaction of the format
 <tid> item1
