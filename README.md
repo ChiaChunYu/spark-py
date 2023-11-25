@@ -1,4 +1,5 @@
 # spark_py
+spark version 3.5.0
 ## a
 Implement the PageRank algorithm with Spark and provide suitable input to test it.
 ## b
